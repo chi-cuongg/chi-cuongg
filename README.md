@@ -1,3 +1,4 @@
+![snake gif](https://github.com/chi-cuongg/chi-cuongg/blob/output/github-snake-dark.svg)
 ## Hi there 👋
 
 <!--
