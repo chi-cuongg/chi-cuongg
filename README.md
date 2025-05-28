@@ -1,7 +1,7 @@
-![snake gif](https://github.com/chi-cuongg/chi-cuongg/blob/output/github-snake-dark.svg)
 # 💫 About Me:
 My name is Cuong, and I am currently a sofware engineering student. I have a passion for coding and building useful, innovative applications that solve real-world problems. I'm always eager to learn new technologies and constantly improving my skills to stay up to date in the ever-changing world of software development. Whether working on front-end interfaces or back-end systems, I strike to write clean, efficient, and maintainable code. I'm excited about the future of technology and look forward to growing as a developer through meaningful projects and hands-on experience.
 
+![snake gif](https://github.com/chi-cuongg/chi-cuongg/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/daochicuong.1603) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cuongg_1603/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daochicuong/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30660163/%c4%90%c3%a0o-ch%c3%ad-c%c6%b0%e1%bb%9dng) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Cuong1603) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cuong16032005@gmail.com) 
