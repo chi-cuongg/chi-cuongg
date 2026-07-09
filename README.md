@@ -1,5 +1,10 @@
 # 💫 About Me:
-My name is Cuong, and I am currently a sofware engineering student. I have a passion for coding and building useful, innovative applications that solve real-world problems. I'm always eager to learn new technologies and constantly improving my skills to stay up to date in the ever-changing world of software development. Whether working on front-end interfaces or back-end systems, I strike to write clean, efficient, and maintainable code. I'm excited about the future of technology and look forward to growing as a developer through meaningful projects and hands-on experience.
+I'm a final-year **Software Engineering** student at **FPT University** (Hoa Lac, Hanoi), graduating **January 2027**. I'm passionate about building useful, innovative applications that solve real-world problems — across both **front-end interfaces** and **back-end systems** — and I strive to write clean, efficient, and maintainable code.
+
+- 🔭 Currently building **full-stack web** and **cross-platform mobile** apps (role-based systems, payment integrations, real-time features).
+- 🌱 Deepening my skills in **Flutter**, **Java**, and **system design**.
+- 🈶 Intermediate **Japanese (JLPT N3 level)** · **IELTS 6.0** — open to English & Japanese working environments.
+- ⚡ Fun fact: outside of code, I'm into gaming and Japanese language & culture.
 
 ![snake gif](https://github.com/chi-cuongg/chi-cuongg/blob/output/github-snake-dark.svg)
 
